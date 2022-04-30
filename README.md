@@ -14,7 +14,7 @@ Random and Math library
 
 4-This System helps the management to know customers order details in few seconds
 
-#cONCLUSION
+#CONCLUSION
 -By this we can directly place the order from our mobile phones and hence save a lot of time.
 -Also, the software used in this project, python is a flexible language which can run in any type of system.
 -It is user friendly and very easy to use. We are further going to implement this program in android platform so that this program can be installed in mobile phones. Majority of people use phones so this would be beneficial.
